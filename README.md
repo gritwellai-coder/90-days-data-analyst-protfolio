@@ -1,1 +1,1 @@
-# 90-days-data-analyst-protfolio
+# 90-days-data-analyst-portfolio
